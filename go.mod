@@ -1,13 +1,13 @@
 module tokamak
 
-go 1.19
+go 1.25.0
 
 require (
 	github.com/disintegration/imaging v1.6.2
 	github.com/fogleman/gg v1.3.0
 	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
-	golang.org/x/image v0.18.0
+	golang.org/x/image v0.38.0
 )
 
 require (
